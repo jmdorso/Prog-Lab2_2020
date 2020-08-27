@@ -1,0 +1,7 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 04\obj\Debug\Ejercicio 04.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 04\obj\Debug\Ejercicio 04.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 04\bin\Debug\Ejercicio 04.exe.config
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 04\bin\Debug\Ejercicio 04.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 04\bin\Debug\Ejercicio 04.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 04\obj\Debug\Ejercicio 04.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 04\obj\Debug\Ejercicio 04.pdb
