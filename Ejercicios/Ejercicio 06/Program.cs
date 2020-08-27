@@ -10,7 +10,7 @@ namespace Ejercicio_06
     {
         static void Main(string[] args)
         {
-            Console.Title = "Ejercicio 05";
+            Console.Title = "Ejercicio 06";
             int añoInicio;
             int añoFin;
             int contadorAñosBisiestos=0;
