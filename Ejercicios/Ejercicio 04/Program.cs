@@ -11,18 +11,18 @@ namespace Ejercicio_04
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio 04";
-            int numeroActual, numeroQueDivide;
+            int numeroActual;
+            int divisor;
             int contadorDeNumPerfectos = 0;
             int acumDivisores = 0;
-
             for(numeroActual=1; contadorDeNumPerfectos < 4;numeroActual++)
             {
                 acumDivisores = 0;
-                for(numeroQueDivide=1; numeroQueDivide<numeroActual;numeroQueDivide++)
+                for(divisor=1; divisor<numeroActual;divisor++)
                 {
-                    if (numeroActual % numeroQueDivide == 0)
+                    if (numeroActual % divisor == 0)
                     {
-                        acumDivisores += numeroQueDivide;
+                        acumDivisores += divisor;
                     }
                 }
                 if (acumDivisores == numeroActual)

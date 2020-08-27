@@ -11,17 +11,17 @@ namespace Ejercicio_2
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio 02";
-            int numero = 0;
+            int numeroUsuario = 0;
             Console.WriteLine("INGRESE NUMERO");
             string cadena = Console.ReadLine();
-            int.TryParse(cadena, out numero);//para convertir
-            while(numero <= 0)
+            int.TryParse(cadena, out numeroUsuario);//para convertir
+            while(numeroUsuario <= 0)
             {
                 Console.WriteLine("ERROR. REINGRESE NUMERO");
                 cadena = Console.ReadLine();
-                int.TryParse(cadena, out numero);//para convertir
+                int.TryParse(cadena, out numeroUsuario);//para convertir
             }
-            Console.WriteLine("El cuadrado es {0} y el cubo es {1}", Math.Pow(numero, 2), Math.Pow(numero, 3));
+            Console.WriteLine("El cuadrado es {0} y el cubo es {1}", Math.Pow(numeroUsuario, 2), Math.Pow(numeroUsuario, 3));
             Console.ReadKey();
                     
 

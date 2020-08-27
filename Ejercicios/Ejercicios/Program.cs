@@ -10,32 +10,31 @@ namespace Ejercicios
     {
         static void Main(string[] args)
         {
-            Console.Title = "Ejercicio 01";
-            int numero = 0;
-            int acum = 0;
-            int max = int.MinValue;
-            int min = int.MaxValue;
+            Console.Title = "Ejercicio 01";           
+            int numeroUsuario = 0;
+            int sumaNumerosUsuarios = 0;
+            int maximo = int.MinValue;
+            int minimo = int.MaxValue;
             double promedio;
-            int i;
-
-            for(i=0;i<5;i++)
+            int contador;
+            for(contador=0;contador<5;contador++)
             {
                 Console.WriteLine("INGRESE NUMERO");
                 string cadena = Console.ReadLine();
-                int.TryParse(cadena, out numero);//para convertir
-                acum = numero + acum;
-                if (max < numero) 
+                int.TryParse(cadena, out numeroUsuario);//para convertir
+                sumaNumerosUsuarios = numeroUsuario + sumaNumerosUsuarios;
+                if (maximo < numeroUsuario) 
                 {
-                    max = numero;
+                    maximo = numeroUsuario;
                 }
-                if(min > numero)
+                if(minimo > numeroUsuario)
                 {
-                    min = numero;
+                    minimo = numeroUsuario;
                 }
             }
-            Console.WriteLine("El Numero Maximo es: {0}", max);
-            Console.WriteLine("El Numero Minimo es: {0}", min);
-            promedio = (double)acum / i;
+            Console.WriteLine("El Numero Maximo es: {0}", maximo);
+            Console.WriteLine("El Numero Minimo es: {0}", minimo);
+            promedio = (double)sumaNumerosUsuarios / contador;
             Console.WriteLine("El promedio es: {0:#,###.00}", promedio);
             Console.ReadKey();
 

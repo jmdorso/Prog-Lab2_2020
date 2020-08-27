@@ -11,11 +11,11 @@ namespace Ejercicio_3
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio 03";
-            int numeroActual, numeroQueDivide;
+            int numeroActual;
+            int divisor;
             int contadorDeNumPrimos = 0;
             int numeroUsuario = 0;
             int resto = 0;
-
             Console.Write("INGRESE UN NUMERO Y LE MOSTRAREMOS TODOS LOS NUMEROS PRIMOS HASTA SU ELECCION: ");
             string cadena = Console.ReadLine();
             int.TryParse(cadena, out numeroUsuario);//para convertir
@@ -32,9 +32,9 @@ namespace Ejercicio_3
                 Console.WriteLine("\nLista de numeros primos hasta el {0}\n", numeroUsuario);
                 for (numeroActual = 2; numeroActual <= numeroUsuario; numeroActual++)
                 {
-                    for (numeroQueDivide = 1; numeroQueDivide <= numeroActual; numeroQueDivide++)
+                    for (divisor = 1; divisor <= numeroActual; divisor++)
                     {
-                        if (numeroActual % numeroQueDivide == 0)
+                        if (numeroActual % divisor == 0)
                         {
                             resto++;
                         } 
