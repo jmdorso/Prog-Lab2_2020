@@ -10,7 +10,7 @@ namespace Ejercicio_12_Entidades
     {
         public static bool ValidarS_N(char c)
         {
-            if(c == "s")//REVISAR
+            if(c == 's')//REVISAR
             {
                 return true;
             }
