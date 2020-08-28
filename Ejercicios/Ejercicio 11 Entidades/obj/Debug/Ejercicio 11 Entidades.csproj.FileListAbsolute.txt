@@ -1,0 +1,6 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11 Entidades\bin\Debug\Ejercicio 11 Entidades.dll
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11 Entidades\bin\Debug\Ejercicio 11 Entidades.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11 Entidades\obj\Debug\Ejercicio 11 Entidades.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11 Entidades\obj\Debug\Ejercicio 11 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11 Entidades\obj\Debug\Ejercicio 11 Entidades.dll
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11 Entidades\obj\Debug\Ejercicio 11 Entidades.pdb

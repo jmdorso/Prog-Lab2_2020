@@ -1,0 +1,7 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 03.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 03.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 3.pdb

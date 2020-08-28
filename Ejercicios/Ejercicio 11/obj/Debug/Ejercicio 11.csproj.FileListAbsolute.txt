@@ -1,0 +1,10 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\bin\Debug\Ejercicio 11.exe.config
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\bin\Debug\Ejercicio 11.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\bin\Debug\Ejercicio 11.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\bin\Debug\Ejercicio 11 Entidades.dll
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\bin\Debug\Ejercicio 11 Entidades.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\obj\Debug\Ejercicio 11.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CopyComplete
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\obj\Debug\Ejercicio 11.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Ejercicios\Ejercicio 11\obj\Debug\Ejercicio 11.pdb
