@@ -1,0 +1,10 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\obj\Debug\Clase 03.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\obj\Debug\Clase 03.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\bin\Debug\Clase 03.exe.config
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\bin\Debug\Clase 03.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\bin\Debug\Clase 03.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\bin\Debug\Biblioteca.dll
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\bin\Debug\Biblioteca.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\obj\Debug\Clase 03.csproj.CopyComplete
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\obj\Debug\Clase 03.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 03\Clase 03\obj\Debug\Clase 03.pdb
