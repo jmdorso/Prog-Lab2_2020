@@ -1,0 +1,2 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 04\Clase 04\obj\Debug\Clase 04.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\Clase 04\Clase 04\obj\Debug\Clase 04.csproj.CoreCompileInputs.cache
