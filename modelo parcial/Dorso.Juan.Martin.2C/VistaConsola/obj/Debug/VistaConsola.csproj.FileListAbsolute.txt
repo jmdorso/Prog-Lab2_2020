@@ -1,0 +1,10 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\VistaConsola\obj\Debug\VistaConsola.pdb

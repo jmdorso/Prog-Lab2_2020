@@ -1,0 +1,6 @@
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\paula\source\repos\Prog-Lab2_2020\modelo parcial\Dorso.Juan.Martin.2C\Entidades\obj\Debug\Entidades.pdb
