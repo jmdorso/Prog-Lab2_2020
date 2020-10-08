@@ -1,0 +1,12 @@
+C:\Users\miche\source\repos\Parcial_1\QuinteroHernandez.Michell\Entidades\bin\Debug\Entidades.dll
+C:\Users\miche\source\repos\Parcial_1\QuinteroHernandez.Michell\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miche\source\repos\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miche\source\repos\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.dll
+C:\Users\miche\source\repos\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.pdb
+C:\Users\miche\Desktop\Laboratorio_2-2020-\Parcial_1\QuinteroHernandez.Michell\Entidades\bin\Debug\Entidades.dll
+C:\Users\miche\Desktop\Laboratorio_2-2020-\Parcial_1\QuinteroHernandez.Michell\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miche\Desktop\Laboratorio_2-2020-\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miche\Desktop\Laboratorio_2-2020-\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\Laboratorio_2-2020-\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.dll
+C:\Users\miche\Desktop\Laboratorio_2-2020-\Parcial_1\QuinteroHernandez.Michell\Entidades\obj\Debug\Entidades.pdb

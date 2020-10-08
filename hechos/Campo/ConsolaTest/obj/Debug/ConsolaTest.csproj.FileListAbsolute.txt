@@ -1,0 +1,10 @@
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\bin\Debug\ConsolaTest.exe.config
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\bin\Debug\ConsolaTest.exe
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\bin\Debug\ConsolaTest.pdb
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\bin\Debug\Parcial1-RodrigoNovas.dll
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\bin\Debug\Parcial1-RodrigoNovas.pdb
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\obj\Debug\ConsolaTest.csprojAssemblyReference.cache
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\obj\Debug\ConsolaTest.csproj.CoreCompileInputs.cache
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\obj\Debug\ConsolaTest.csproj.CopyComplete
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\obj\Debug\ConsolaTest.exe
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\ConsolaTest\obj\Debug\ConsolaTest.pdb

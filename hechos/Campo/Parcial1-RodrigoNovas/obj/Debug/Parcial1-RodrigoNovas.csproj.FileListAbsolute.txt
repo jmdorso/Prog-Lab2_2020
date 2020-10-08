@@ -1,0 +1,6 @@
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\Parcial1-RodrigoNovas\bin\Debug\Parcial1-RodrigoNovas.dll
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\Parcial1-RodrigoNovas\bin\Debug\Parcial1-RodrigoNovas.pdb
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\Parcial1-RodrigoNovas\obj\Debug\Parcial1-RodrigoNovas.csprojAssemblyReference.cache
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\Parcial1-RodrigoNovas\obj\Debug\Parcial1-RodrigoNovas.csproj.CoreCompileInputs.cache
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\Parcial1-RodrigoNovas\obj\Debug\Parcial1-RodrigoNovas.dll
+C:\Users\rodnovas\source\repos\Parcial1-RodrigoNovas\Parcial1-RodrigoNovas\obj\Debug\Parcial1-RodrigoNovas.pdb
