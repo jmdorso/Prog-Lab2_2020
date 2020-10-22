@@ -1,0 +1,15 @@
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.deps.json
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.dll
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.pdb
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.dll
+C:\Users\Compumar\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.pdb
+C:\Users\Compumar\source\repos\Prog-Lab2_2020\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\Prog-Lab2_2020\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\Compumar\source\repos\Prog-Lab2_2020\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\Compumar\source\repos\Prog-Lab2_2020\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\Prog-Lab2_2020\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.dll
+C:\Users\Compumar\source\repos\Prog-Lab2_2020\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.pdb
