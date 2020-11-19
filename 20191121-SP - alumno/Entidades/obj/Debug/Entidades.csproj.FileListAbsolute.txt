@@ -1,0 +1,6 @@
+C:\Users\Compumar\Desktop\JUAN FACULTAD\PROG Y LABO\20191121-SP - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Compumar\Desktop\JUAN FACULTAD\PROG Y LABO\20191121-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Compumar\Desktop\JUAN FACULTAD\PROG Y LABO\20191121-SP - alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Compumar\Desktop\JUAN FACULTAD\PROG Y LABO\20191121-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\Desktop\JUAN FACULTAD\PROG Y LABO\20191121-SP - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Compumar\Desktop\JUAN FACULTAD\PROG Y LABO\20191121-SP - alumno\Entidades\obj\Debug\Entidades.pdb
